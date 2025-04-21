@@ -18,8 +18,8 @@ Bu proje, kitaplar ve makaleler arasında içerik karşılaştırması yapan bir
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullanici_adi/comporasion_project.git
-cd comporasion_project
+git clone https://github.com/sule0/Compare-Article-PDF.git
+cd Compare-Article-PDF/comporasion_project
 ```
 
 2. Gerekli Python paketlerini yükleyin:
